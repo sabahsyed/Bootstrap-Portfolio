@@ -26,10 +26,11 @@
   text-align: center;
 }
 h1{
+  text-align:justify;
   border-color: #cccccc;
   color:teal;
-  margin-top: 50px;
-  padding: 30px;
+  margin-top:20px;
+  padding: 15px;
 }
 header{
   
@@ -38,7 +39,7 @@ header{
   background-color:#4aaaa5;
 }
 p{
-  padding :20px;
+  padding :15px;
 }
 img{
   float:left;
@@ -46,4 +47,14 @@ img{
 .box{
   border: 0.5;
   color:grey;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 250px;
+  background-color:teal;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
 }
