@@ -1,4 +1,5 @@
 .body{
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   padding-left: 30%;
   padding-right: 30%;
   color:#777777;
@@ -26,6 +27,7 @@
   text-align: center;
 }
 h1{
+  font-family:Georgia, Times, "Times New Roman", serif;
   text-align:justify;
   border-color: #cccccc;
   color:teal;
@@ -33,7 +35,7 @@ h1{
   padding: 15px;
 }
 header{
-  
+  font-family:Georgia, Times, "Times New Roman", serif;
   color:white;
   padding:50px;
   background-color:#4aaaa5;
@@ -48,7 +50,6 @@ img{
   border: 0.5;
   color:grey;
 }
-
 .text-block {
   position: absolute;
   bottom: 20px;
